@@ -39,5 +39,7 @@ WebUI.click(findTestObject('SignUp_Page/button_Sign Up'))
 
 WebUI.takeScreenshot()
 
+println('Ended')
+
 WebUI.closeBrowser()
 
