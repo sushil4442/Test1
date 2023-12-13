@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Its quick and easy</name>
+   <tag></tag>
+   <elementGuidId>97331603-da0c-4fb2-9efd-9a11a562ccf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[4]/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._52lr.fsm.fwn.fcg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4dbd69ce-8185-44d6-95a7-dc41f2750e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_52lr fsm fwn fcg</value>
+      <webElementGuid>c9111587-2156-4a18-92ec-9c22b0260c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>It's quick and easy.</value>
+      <webElementGuid>a202ad0b-c109-45f1-9f6a-88c3c3d09751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;fbIndex UIPage_LoggedOut _-kb _605a b_c3pyn-ahh chrome webkit win x1 Locale_en_GB cores-gte4 _19_u&quot;]/div[@class=&quot;_n8 _3qx _8idq _8esf _8f3m _8fgk uiLayer _3qw&quot;]/div[@class=&quot;_n9&quot;]/div[@class=&quot;_n3&quot;]/div[@class=&quot;_8ien&quot;]/div[@class=&quot;pvl _52lp _59d-&quot;]/div[@class=&quot;_52lr fsm fwn fcg&quot;]</value>
+      <webElementGuid>3de441a2-e054-4e89-af2c-ae0113e7e888</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[4]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>25606a1a-7dc0-43f9-9a1e-114b9f287ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>2e239d74-186a-4128-bf32-2751b99124d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;It&quot; , &quot;'&quot; , &quot;s quick and easy.&quot;) or . = concat(&quot;It&quot; , &quot;'&quot; , &quot;s quick and easy.&quot;))]</value>
+      <webElementGuid>c4d8e90b-1991-4de2-91eb-54ba0064c5fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
